@@ -20,7 +20,7 @@ docker pull opendronemap/odm
 
 - Place some images (JPEGs or TIFFs) in a folder named “images” in a project folder in the datasets folder in the home directory (for example `/home/youruser/datasets/tajine/images`)
 <center>
-<img src="images/images_for_odm.png" alt="Tajin images for odm" width="400"/>
+<img src="images/images_for_odm.png" alt="Tajin images for odm" width="500"/>
 </center>
 
 - Run the following command:
@@ -55,6 +55,8 @@ When the process finishes, the results will be organized as follows:
 </pre>
 
 Open the textured model (odm_textured_model_geo.obj) or the mesh using [MeshLab](https://www.meshlab.net/) (open source system for processing and editing 3D triangular meshes).
+
+---
 
 ### First result:
 
