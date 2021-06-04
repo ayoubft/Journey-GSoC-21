@@ -18,12 +18,12 @@ docker pull opendronemap/odm
 
 ## Building the 3D model
 
-- Place some images (JPEGs or TIFFs) in a folder named “images” in a project folder in the datasets folder in the home directory (for example `/home/youruser/datasets/project/images`)
+- Place some images (JPEGs or TIFFs) in a folder named “images” in a project folder in the datasets folder in the home directory (for example `/home/youruser/datasets/tajine/images`)
 <center>
 <img src="images/images_for_odm.png" alt="Tajin images for odm" width="400"/>
 </center>
 
-- Run the following command
+- Run the following command:
 
 ```
 docker run -ti --rm -v /home/youruser/datasets:/datasets opendronemap/odm --project-path /datasets project
