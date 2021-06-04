@@ -55,3 +55,17 @@ When the process finishes, the results will be organized as follows:
 </pre>
 
 Open the textured model (odm_textured_model_geo.obj) or the mesh using [MeshLab](https://www.meshlab.net/) (open source system for processing and editing 3D triangular meshes).
+
+### First result:
+
+<center>
+<img src="images/first-model-unedited.png" alt="first model unedited" width="600"/>
+</center>
+
+### Final result:
+
+After some editing on MeshLab, here are the final results:
+
+<center>
+<img src="images/tajine-final.gif" alt="final tajine" width="800"/>
+</center>
