@@ -1,0 +1,1 @@
+os: windows 10 + wsl2 ubuntu
